@@ -1,0 +1,5 @@
+notebook-toolkit-gcpds @ git+https://github.com/dramirezbe/notebook-toolkit-gcpds.git
+numpy==2.4.6
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.17.1
